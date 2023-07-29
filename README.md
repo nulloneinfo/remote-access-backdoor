@@ -1,2 +1,3 @@
 # remote-access-backdoor
-C++ is one of the most common programming languages. So it was a great experience writing a remote access backdoor in C++.
+💻 Remote Access Backdoor Project
+A secure and versatile backdoor solution, providing authorized remote access to systems for maintenance and troubleshooting purposes. Developed with a focus on robust encryption, authentication, and limited access privileges. Enhancing remote management capabilities while prioritizing security and privacy. #Cybersecurity #Backdoor #Encryption #RemoteAccess
